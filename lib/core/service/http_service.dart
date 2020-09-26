@@ -85,7 +85,7 @@ class HttpService {
       print(Post.fromJson(jsonDecode(response.body)).title);
       return Post.fromJson(jsonDecode(response.body));
     } else {
-      throw Exception('Failed to delete album.');
+      throw Exception('Failed to delete post.');
     }
   }
 }
