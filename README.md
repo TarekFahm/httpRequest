@@ -1,6 +1,6 @@
 # httpRequest
 
-implementing http request in flutter project and use a fake api for backend .
+implementing http request in flutter project from fake api.
 
 ## Getting Started
 
