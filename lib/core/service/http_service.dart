@@ -25,7 +25,7 @@ class HttpService {
     }
   }
 
-  // we have no access to the api, so we can't delete or modify the records
+  // in this json server changes are faked and aren't persisted
 
   Future<Post> updatePosts({String title, id, body}) async {
     String urlToUpdate = '$postsURL/$id';
