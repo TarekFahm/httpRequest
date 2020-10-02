@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Resources used to build this application:
+
+1/ https://my-json-server.typicode.com/?fbclid=IwAR00rNLMQOGVC87FBbXQZzDwrMUdCvpAEAE0Sc-XNja9SrxoJTlvFviXeco
+2/ https://developer.mozilla.org/ar/docs/Web/HTTP/status?fbclid=IwAR2g7B1MoLalNqTLDA5iBSLb9mojKAzxulY1sXJp0N1pKzO65D-FnmfLwsA
+3/ https://medium.com/flutterdevs/using-rest-api-in-flutter-d19e6eb972b8
