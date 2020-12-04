@@ -1,4 +1,4 @@
-# httpRequest
+# Http Request
 
 ![alt text](https://github.com/TarekFahm/httpRequest/blob/master/screen/screen.jpg)
 
